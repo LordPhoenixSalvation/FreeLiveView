@@ -30,4 +30,4 @@ License
 See the LICENSE file for a complete copy of the license.
 
 
-[adq]: http://adq.livejournal.com/
+[adq]: 
