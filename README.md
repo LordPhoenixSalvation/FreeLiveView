@@ -11,6 +11,7 @@ The base of this implementation (figuring out the details of the protocol) was d
 
 License
 -------
+    Copyright 2014 Neil J Daniels - FreeLiveView Fork New Content Only
     Copyright 2013 Renze Nicolai
     Original source code: Copyright 2011 Robert Jacob
 
