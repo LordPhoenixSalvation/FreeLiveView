@@ -1,9 +1,9 @@
-OpenLiveView
+FreeLiveView
 ============
 
 *An open implementation of Sony's LiveView protocol.*
 
-This Android application aims to be a complete replacement for the proprietary applications provided by Sony.
+This Android application aims to be a complete replacement for the proprietary applications provided by Sony, and is a fork of the OpenLiveView project (presumably abandoned).
 
 Notice
 ------
@@ -12,7 +12,7 @@ The base of this implementation (figuring out the details of the protocol) was d
 License
 -------
     Copyright 2014 Neil J Daniels - FreeLiveView Fork New Content Only
-    Copyright 2013 Renze Nicolai
+    OpenLiveView: Copyright 2013 Renze Nicolai
     Original source code: Copyright 2011 Robert Jacob
 
     Licensed under the Apache License, Version 2.0 (the "License");
